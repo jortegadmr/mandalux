@@ -269,7 +269,7 @@ function savePng(): void {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `light-loom-${new Date().toISOString().slice(0, 19).replace(/[:T]/g, '-')}.png`;
+    a.download = `mandalux-${new Date().toISOString().slice(0, 19).replace(/[:T]/g, '-')}.png`;
     document.body.appendChild(a);
     a.click();
     a.remove();

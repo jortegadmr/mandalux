@@ -1,12 +1,12 @@
-# Light Loom
+# Mandalux
 
 Paint with light in 3D. Every stroke is woven around radial axes into a glowing neon sculpture, and the trails fade away like comets. Orbit the result, then save it as a PNG.
 
-**Live demo:** https://jortegadmr.github.io/light-loom-3d/
+**Live demo:** https://jortegadmr.github.io/mandalux/
 
-![Light Loom demo](docs/demo.gif)
+![Mandalux demo](docs/demo.gif)
 
-![Light Loom screenshot](docs/screenshot.png)
+![Mandalux screenshot](docs/screenshot.png)
 
 ## Features
 
